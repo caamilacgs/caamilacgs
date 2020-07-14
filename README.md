@@ -11,5 +11,5 @@
 - **Languages:** HTML, CSS, JavaScript, Node.js. (Nivel-Junior)
 - **Tools:** Vscode, Visual Studio, Git, GitHub, Cmder. 
 - **Academic:** Database Technologist and Information Technology Management.
-- I like anime.
+- I like anime, mangas, series.
 
