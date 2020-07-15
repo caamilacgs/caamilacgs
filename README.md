@@ -3,6 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karinaponte)](https://github.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caamilacgs)](https://www.linkedin.com/in/caamilacgs)
+[![DEV Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to&logoColor=white&link=https://www.linkedin.com/in/caamilacgs/)](www.linkedin.com/in/caamilacgs/)
 
 - I'm from São Paulo - Brazil
 - I'm currently working as an IT Analyst.
