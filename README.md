@@ -1,6 +1,10 @@
 
-## 𝐇𝐞𝐥𝐥𝐨 👋
+## 𝐇𝐞𝐥𝐥𝐨 > :octocat:
 
+
+<h1 align="center">
+(https://imgur.com/a/668nESO)
+</h1>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caamilacgs@gmail.com)](mailto:caamilacgs@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caamilacgs)](https://www.linkedin.com/in/caamilacgs)
 [![DEV Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to&logoColor=white&link=https://www.linkedin.com/in/caamilacgs/)](www.linkedin.com/in/caamilacgs/)
