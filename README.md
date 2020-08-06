@@ -10,7 +10,7 @@
 - I'm currently working as an IT Analyst.
 - Studying programming for FullStack development.
 - I am looking to participate in practical projects.
-- **Languages:** HTML, CSS, JavaScript, Node.js. (Nivel-Junior)
+- **Languages:** HTML, CSS, JavaScript, Node.js. (Iniciante)
 - **Tools:** Vscode, Visual Studio, Git, GitHub, Cmder. 
 - **Academic:** Database Technologist and Information Technology Management.
 - **I like:** anime, mangas, series.
