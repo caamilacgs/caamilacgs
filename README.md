@@ -18,8 +18,8 @@ I am currently studying ADS at Fatec Carapicuiba and participating in the progra
 - Ferramentas: VSCode, Github, Figma, Trello, Asana, Kanban.
 
 ### Contacts: <br />
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caamilacgs@gmail.com)](mailto:caamilacgs@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caamilacgs)](https://www.linkedin.com/in/caamilacgs)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caamilacgs)](https://www.linkedin.com/in/caamilacgs)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caamilacgs@gmail.com)](mailto:caamilacgs@gmail.com)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
