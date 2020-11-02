@@ -23,3 +23,5 @@ I am currently studying ADS at Fatec Carapicuiba and participating in the progra
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caamilacgs@gmail.com)](mailto:caamilacgs@gmail.com)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+https://about.me/caamilacgs/edit
